@@ -1,0 +1,4 @@
+pandas
+xlrd
+pandas-datareader
+DateTime
